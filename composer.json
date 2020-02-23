@@ -1,0 +1,14 @@
+{
+    "name": "guanguans/uploadfile",
+    "description": "上传文件composer",
+    "type": "l",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanghongying",
+            "email": "648049301@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
